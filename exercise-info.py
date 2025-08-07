@@ -6,7 +6,7 @@ app = Flask(__name__)
 print('server listening on port 5003...')
 
 @app.route('/exercise-info', methods=['GET'])
-def get_suggested_exercise():
+def get_exercise_info():
     """
     Provides information for a particular exercise
     """
@@ -15,14 +15,14 @@ def get_suggested_exercise():
         return Response(json.dumps('invalid query parameter'), mimetype='application/json', status=400)
     
     try:
-        with open('exercise-info.json', 'r') as infile:
+        with open('Exercise_Info.json', 'r') as infile:
             exercise = json.load(infile)
     except FileNotFoundError:
         return Response(json.dumps('File not found.', mimetype='application/json', status=500))
     
     exercise_data = exercise.get(exercise_info_request)    
     if exercise_data:
-        print('found some exercises')
+        print('Got it!')
         response_data = exercise_data
     
     print("sending over!")
