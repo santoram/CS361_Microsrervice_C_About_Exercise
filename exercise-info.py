@@ -30,5 +30,5 @@ def get_suggested_exercise():
 
 if __name__ == '__main__':
     # check to make sure the file path exsists before execution
-    # note this is running on port 5002
+    # note this is running on port 5003
     app.run(host='127.0.0.1', port=5003, debug=True)
