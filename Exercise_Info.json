@@ -1,0 +1,260 @@
+{
+  "Arnold Press": {
+    "general_info": "The Arnold Press is a dumbbell shoulder exercise popularized by Arnold Schwarzenegger. It involves a unique rotation, starting with dumbbells in front of your shoulders, palms facing you, then rotating as you press overhead until palms face forward. This movement targets all three heads of the deltoids, providing comprehensive shoulder development.",
+    "target_muscle_group": "Shoulders (Anterior, Medial, Posterior Deltoids), Triceps",
+    "safety_tips": "Use a lighter weight initially to master the rotational movement. Control the dumbbells throughout the entire range of motion, both on the press and the descent. Keep your core engaged to protect your lower back and avoid excessive arching.",
+    "difficulty_level": "Advanced"
+  },
+  "Barbell Bench Press": {
+    "general_info": "The barbell bench press is a compound exercise that primarily targets the chest, shoulders, and triceps. It's a fundamental movement for building upper body strength and muscle mass. Performed lying on a flat bench, it involves pressing a barbell upwards from the chest until the arms are fully extended. Proper form is crucial to maximize effectiveness and prevent injury.",
+    "target_muscle_group": "Chest (Pectoralis Major), Shoulders (Anterior Deltoids), Triceps",
+    "safety_tips": "Always use a spotter, especially when lifting heavy. Keep your feet flat on the floor and maintain a slight arch in your lower back. Control the descent of the bar and avoid bouncing it off your chest. Ensure your grip is even and secure.",
+    "difficulty_level": "Advanced"
+  },
+  "Barbell Rows": {
+    "general_info": "Barbell rows are a compound exercise that effectively targets the entire back, including the lats, rhomboids, and traps, as well as the biceps. Performed bent over with a barbell, you pull the bar towards your lower chest or upper abdomen. It's a powerful exercise for building back thickness, strength, and overall posterior chain development.",
+    "target_muscle_group": "Back (Latissimus Dorsi, Rhomboids, Trapezius), Biceps, Forearms",
+    "safety_tips": "Maintain a flat back and a neutral spine throughout the entire movement; avoid rounding your lower back at all costs. Keep your core tightly engaged to protect your spine. Use a controlled tempo and avoid jerking the weight. Start with lighter weights to perfect the form before increasing the load.",
+    "difficulty_level": "Advanced"
+  },
+  "Barbell Squats": {
+    "general_info": "Barbell squats are a foundational compound exercise for building lower body strength and muscle. They work a wide range of muscles including the quadriceps, hamstrings, glutes, and core. The exercise involves lowering your hips from a standing position and then standing back up, with a barbell resting across your upper back. It's considered one of the most effective exercises for overall leg development.",
+    "target_muscle_group": "Quadriceps, Hamstrings, Glutes, Calves, Core",
+    "safety_tips": "Warm up thoroughly before squatting. Maintain a neutral spine and keep your chest up throughout the movement. Ensure your knees track in line with your toes. Consider using a spotter or squat rack safety pins when lifting heavy.",
+    "difficulty_level": "Advanced"
+  },
+  "Box Jumps": {
+    "general_info": "Box jumps are a plyometric exercise that builds explosive power in the lower body, particularly the glutes, hamstrings, and quads. It involves jumping from the floor onto a raised box and then stepping or jumping back down. This exercise is excellent for improving vertical jump, speed, and overall athleticism.",
+    "target_muscle_group": "Glutes, Hamstrings, Quadriceps, Calves",
+    "safety_tips": "Choose a box height appropriate for your current ability. Land softly and quietly on the entire foot, absorbing the impact. Step down from the box rather than jumping down to reduce stress on your joints. Ensure the box is stable and won't slip.",
+    "difficulty_level": "Advanced"
+  },
+  "Cable Flies": {
+    "general_info": "Cable flies are an isolation exercise that effectively targets the chest muscles, providing continuous tension throughout the entire range of motion. Performed using a cable crossover machine, you bring your hands together in front of your body in a wide arc, mimicking a hugging motion. This exercise is excellent for isolating the pectorals and achieving a strong chest contraction.",
+    "target_muscle_group": "Chest (Pectoralis Major)",
+    "safety_tips": "Use a controlled movement and avoid using excessive weight that compromises your form. Maintain a slight bend in your elbows throughout the exercise. Focus on squeezing your chest muscles at the peak contraction, rather than just moving the weight.",
+    "difficulty_level": "Beginner"
+  },
+  "Clean and Jerk": {
+    "general_info": "The clean and jerk is one of the two Olympic weightlifting movements, combining two distinct lifts: the clean (lifting the bar from the floor to the shoulders) and the jerk (lifting the bar from the shoulders to an overhead position). It requires immense strength, power, coordination, and flexibility. Mastering this lift signifies elite full-body athletic capability.",
+    "target_muscle_group": "Full Body (Quadriceps, Hamstrings, Glutes, Back, Shoulders, Triceps, Core)",
+    "safety_tips": "This is a highly technical lift; seek qualified coaching. Master the clean and jerk components separately before combining them. Always maintain a neutral spine and be prepared to bail if the lift goes awry. Proper warm-up and mobility are crucial.",
+    "difficulty_level": "Elite"
+  },
+  "Deadlift": {
+    "general_info": "The deadlift is a full-body compound exercise that involves lifting a barbell or dumbbells off the floor and standing up straight. It is renowned for building immense strength in the back, glutes, hamstrings, and forearms. Often called the 'king of exercises,' it mimics real-life lifting movements and is excellent for developing overall power and muscle mass.",
+    "target_muscle_group": "Lower Back (Erectors), Glutes, Hamstrings, Trapezius, Forearms",
+    "safety_tips": "Maintain a straight back and engage your core throughout the lift. Keep the bar close to your body. Lift with your legs and hips, not your back. Start with lighter weights to master the form before increasing the load.",
+    "difficulty_level": "Elite"
+  },
+  "Deficit Deadlifts": {
+    "general_info": "Deficit deadlifts are a variation of the deadlift where the lifter stands on a raised surface (e.g., a plate or low box), increasing the range of motion. This greater range of motion challenges the hamstrings, glutes, and back more intensely, improving strength off the floor. It can help address weaknesses in the initial pull of a conventional deadlift.",
+    "target_muscle_group": "Hamstrings, Glutes, Lower Back, Quadriceps, Forearms",
+    "safety_tips": "Only attempt deficit deadlifts after mastering conventional deadlifts. Start with a small deficit and gradually increase it. Maintain a flat back and tight core throughout the extended range of motion. Ensure your elevated surface is stable and non-slip.",
+    "difficulty_level": "Elite"
+  },
+  "Dips": {
+    "general_info": "Dips are a compound upper body exercise that primarily targets the triceps, chest, and shoulders. Performed on parallel bars, you lower your body by bending your elbows and then push back up. They can be done bodyweight or weighted for increased difficulty, building significant pushing strength and muscle mass.",
+    "target_muscle_group": "Triceps, Chest (Lower Pectoralis), Shoulders (Anterior Deltoids)",
+    "safety_tips": "Control your descent and avoid bouncing at the bottom. Keep your elbows tucked in for triceps focus, or flare them slightly for more chest engagement. Avoid going too deep if you experience shoulder discomfort. Gradually add weight once bodyweight dips are mastered.",
+    "difficulty_level": "Advanced"
+  },
+  "Dumbbell Curls": {
+    "general_info": "Dumbbell curls are an isolation exercise primarily targeting the biceps. Performed by holding a dumbbell in each hand, the movement involves curling the weights upwards towards the shoulders while keeping the elbows tucked close to the body. This exercise is effective for building peak and overall size in the biceps.",
+    "target_muscle_group": "Biceps",
+    "safety_tips": "Avoid swinging the dumbbells; use controlled movements. Keep your elbows stationary and close to your body. Don't use momentum from your back to lift the weight. Focus on squeezing the bicep at the top of the movement.",
+    "difficulty_level": "Beginner"
+  },
+  "Farmers Walk": {
+    "general_info": "The Farmer's Walk is a full-body functional exercise that involves walking a set distance while holding heavy dumbbells or kettlebells in each hand. It is excellent for building grip strength, core stability, shoulder endurance, and overall work capacity. This exercise mimics real-world carrying tasks and improves full-body resilience.",
+    "target_muscle_group": "Forearms (Grip), Trapezius, Shoulders, Core, Glutes, Hamstrings, Quadriceps",
+    "safety_tips": "Start with manageable weights to ensure good posture throughout the walk. Keep your shoulders back and down, chest up, and core tight. Avoid leaning to one side. Ensure your path is clear to prevent tripping.",
+    "difficulty_level": "Advanced"
+  },
+  "Hammer Rows": {
+    "general_info": "Hammer rows are a machine-based rowing exercise, often plate-loaded, targeting the back muscles. They provide a stable platform for heavy lifting and focus on building back thickness and strength. This exercise allows for independent arm movement, which can help address muscle imbalances.",
+    "target_muscle_group": "Back (Latissimus Dorsi, Rhomboids, Trapezius), Biceps, Forearms",
+    "safety_tips": "Maintain a stable torso and avoid excessive rocking or using momentum. Focus on pulling with your back muscles, squeezing your shoulder blades together at the peak of the contraction. Keep your core engaged throughout the movement.",
+    "difficulty_level": "Intermediate"
+  },
+  "Hang Cleans": {
+    "general_info": "Hang cleans are a dynamic, full-body Olympic lift that starts from a hang position (typically above the knees) and involves pulling the bar explosively upwards, shrugging, and then catching it in a front rack position. This exercise builds power, speed, and coordination, making it excellent for athletic development.",
+    "target_muscle_group": "Quadriceps, Hamstrings, Glutes, Lower Back, Trapezius, Shoulders, Forearms",
+    "safety_tips": "Focus on proper technique over heavy weight initially. Keep the bar close to your body throughout the pull. Ensure a strong core and stable landing in the front rack position. Practice with light weight or a PVC pipe to master the movement.",
+    "difficulty_level": "Elite"
+  },
+  "Hang Snatch": {
+    "general_info": "The hang snatch is a variation of the snatch where the lift begins from a 'hang' position, typically above or below the knees, rather than from the floor. This emphasizes the second pull (the explosive hip extension) and the overhead catch. It's excellent for developing explosive power, speed, and perfecting the overhead squat portion of the snatch.",
+    "target_muscle_group": "Quadriceps, Hamstrings, Glutes, Lower Back, Trapezius, Shoulders, Core",
+    "safety_tips": "Master the full snatch and its components before focusing on hang variations. Maintain a neutral spine and active shoulders throughout. Ensure a stable overhead receiving position. Focus on a powerful hip drive to elevate the bar.",
+    "difficulty_level": "Elite"
+  },
+  "Kettlebell Swings": {
+    "general_info": "Kettlebell swings are a highly dynamic, full-body exercise that builds explosive power in the hips, glutes, and hamstrings, while also engaging the core and shoulders. It involves swinging a kettlebell between the legs and then powerfully driving it up to chest or eye level using a hip hinge. This exercise is excellent for improving cardiovascular fitness and power output.",
+    "target_muscle_group": "Glutes, Hamstrings, Lower Back, Core, Shoulders",
+    "safety_tips": "The movement is a hinge, not a squat; focus on hip drive. Keep your back straight and core engaged. Control the kettlebell's descent. Start with a lighter kettlebell to master the hip hinge motion before increasing weight.",
+    "difficulty_level": "Advanced"
+  },
+  "Lat Pulldowns": {
+    "general_info": "Lat pulldowns are a machine-based exercise primarily targeting the latissimus dorsi (lats), the large muscles of the back, as well as the biceps and forearms. Performed seated, you pull a bar down towards your upper chest or chin. It's an excellent exercise for building back width and strength, especially for those who cannot yet perform pull-ups.",
+    "target_muscle_group": "Back (Latissimus Dorsi), Biceps, Forearms",
+    "safety_tips": "Keep your torso relatively upright or with a slight lean back, avoiding excessive swinging. Use a full range of motion, stretching your lats at the top and squeezing at the bottom. Avoid letting the weight stack slam down.",
+    "difficulty_level": "Beginner"
+  },
+  "Leg Extensions": {
+    "general_info": "Leg extensions are an isolation exercise that specifically targets the quadriceps muscles at the front of the thigh. Performed on a leg extension machine, you sit and extend your lower legs upwards against resistance. This exercise is useful for building definition and strength in the quads, often used as a finishing exercise.",
+    "target_muscle_group": "Quadriceps",
+    "safety_tips": "Adjust the machine to fit your leg length properly. Avoid locking your knees out forcefully at the top of the movement. Use a controlled tempo throughout the exercise to protect your knee joints.",
+    "difficulty_level": "Beginner"
+  },
+  "Leg Press": {
+    "general_info": "The leg press is a machine-based compound exercise that targets the quadriceps, glutes, and hamstrings. Performed seated, you push a weighted platform away with your feet. It's a good alternative to squats for building leg strength and muscle mass without direct spinal loading, making it suitable for various fitness levels.",
+    "target_muscle_group": "Quadriceps, Glutes, Hamstrings",
+    "safety_tips": "Do not lock out your knees at the top of the movement to avoid hyperextension. Keep your lower back pressed firmly against the pad. Control the descent and ascent of the weight, avoiding bouncing at the bottom.",
+    "difficulty_level": "Beginner"
+  },
+  "Lying Leg Curls": {
+    "general_info": "Lying leg curls are an isolation exercise that specifically targets the hamstrings. Performed lying face down on a machine, you curl your lower legs upwards against resistance. This exercise is excellent for building hamstring size, definition, and strength, contributing to balanced leg development.",
+    "target_muscle_group": "Hamstrings",
+    "safety_tips": "Adjust the machine to fit your body comfortably. Use a controlled motion, avoiding jerking the weight or using momentum. Focus on squeezing the hamstrings at the top of the movement and slowly lowering the weight.",
+    "difficulty_level": "Beginner"
+  },
+  "Muscle Ups": {
+    "general_info": "Muscle ups are an advanced calisthenics exercise that combines a pull-up and a dip into one fluid movement. It requires significant upper body strength, particularly in the back, chest, and triceps, along with explosive power and coordination. Mastering the muscle up is a hallmark of advanced bodyweight training.",
+    "target_muscle_group": "Back (Latissimus Dorsi), Chest (Pectoralis Major), Triceps, Shoulders, Core",
+    "safety_tips": "Only attempt muscle ups after mastering pull-ups and dips. Focus on developing explosive pulling power and a strong transition. Practice the individual components and transition drills before attempting the full movement. Ensure the bar is stable and secure.",
+    "difficulty_level": "Elite"
+  },
+  "Overhead Press (Barbell/Dumbbell)": {
+    "general_info": "The overhead press, also known as the shoulder press, is a compound exercise that primarily targets the shoulders and triceps. It involves pressing a weight (barbell or dumbbells) directly overhead from shoulder height until the arms are fully extended. This exercise is excellent for building strong, well-defined shoulders and improving upper body pushing strength.",
+    "target_muscle_group": "Shoulders (Deltoids), Triceps",
+    "safety_tips": "Keep your core tight and avoid excessive arching of the lower back. Control the weight throughout the movement, both on the way up and down. Ensure your elbows are slightly forward, not flared out to the sides.",
+    "difficulty_level": "Advanced"
+  },
+  "Pendley Rows": {
+    "general_info": "Pendley rows are a variation of the barbell row where the barbell starts from a dead stop on the floor for each repetition. This emphasizes explosive power from the bottom and significantly reduces momentum, making it excellent for building raw back strength and power. The torso remains strictly parallel to the floor throughout the lift, maximizing back engagement.",
+    "target_muscle_group": "Back (Latissimus Dorsi, Rhomboids, Trapezius), Biceps, Forearms",
+    "safety_tips": "Ensure your torso stays parallel to the floor for optimal muscle activation. Reset the bar completely on the floor for each repetition. Maintain a neutral spine and tight core. This exercise requires good hamstring flexibility and a strong, stable lower back.",
+    "difficulty_level": "Advanced"
+  },
+  "Pistol Squat": {
+    "general_info": "The pistol squat is an advanced bodyweight exercise performed on one leg, while the other leg is extended forward. It demands significant single-leg strength, balance, and mobility in the ankles, knees, and hips. Mastering this exercise demonstrates high levels of lower body control and functional strength.",
+    "target_muscle_group": "Quadriceps, Glutes, Hamstrings, Core, Calves",
+    "safety_tips": "Master bodyweight squats and single-leg balance drills first. Use support (holding onto a pole or resistance band) if needed to assist with balance. Focus on a slow, controlled descent and ensure your knee tracks in line with your foot. Gradually increase depth.",
+    "difficulty_level": "Elite"
+  },
+  "Plank": {
+    "general_info": "The plank is an isometric core exercise that strengthens the entire core, including the rectus abdominis, obliques, and lower back muscles. It involves holding a position similar to the top of a push-up, supporting your body on your forearms and toes, maintaining a straight line from head to heels. It's excellent for improving core stability and endurance.",
+    "target_muscle_group": "Abs (Rectus Abdominis, Obliques), Lower Back, Shoulders",
+    "safety_tips": "Keep your body in a straight line; avoid letting your hips sag or rise too high. Engage your core by pulling your belly button towards your spine. Breathe normally throughout the hold. If you feel lower back pain, adjust your form or rest.",
+    "difficulty_level": "Beginner"
+  },
+  "Power Cleans": {
+    "general_info": "Power cleans are a variation of the clean where the lifter catches the barbell in a partial squat (above parallel) rather than a full squat. This explosive, full-body exercise develops significant power, strength, and athleticism. It involves pulling the bar from the floor, shrugging, and quickly rotating the elbows under the bar to catch it on the shoulders.",
+    "target_muscle_group": "Quadriceps, Hamstrings, Glutes, Lower Back, Trapezius, Shoulders, Forearms",
+    "safety_tips": "Prioritize explosive movement and perfect form over heavy weight. Ensure a strong, stable catch in the front rack. Keep the bar path vertical and as close to the body as possible. Practice the movement with light loads to ingrain proper technique.",
+    "difficulty_level": "Elite"
+  },
+  "Power Snatch": {
+    "general_info": "The power snatch is a variation of the snatch where the lifter catches the barbell in a partial squat (above parallel) rather than a full overhead squat. This emphasizes the explosive pull and quick transition. It's a great exercise for developing explosive power and improving the speed and height of the bar pull, without requiring extreme overhead mobility.",
+    "target_muscle_group": "Quadriceps, Hamstrings, Glutes, Lower Back, Trapezius, Shoulders, Forearms",
+    "safety_tips": "Focus on explosive hip extension and a strong shrug. Ensure a stable overhead catch with locked elbows. Practice with light weights to perfect the technique. Maintain a neutral spine throughout the powerful pull.",
+    "difficulty_level": "Elite"
+  },
+  "Preacher Curls": {
+    "general_info": "Preacher curls are an isolation exercise for the biceps, performed on a preacher bench which supports the upper arms. This setup minimizes cheating by stabilizing the elbows, forcing the biceps to do all the work. It's excellent for building peak and overall size in the biceps, providing a strong contraction and stretch.",
+    "target_muscle_group": "Biceps",
+    "safety_tips": "Adjust the bench height to comfortably support your arms. Use a controlled tempo, avoiding swinging the weight. Do not hyperextend your elbows at the bottom of the movement, which can strain the joint. Focus on a strict contraction of the biceps.",
+    "difficulty_level": "Intermediate"
+  },
+  "Pull-ups": {
+    "general_info": "Pull-ups are a classic bodyweight exercise that primarily targets the back muscles, especially the lats, as well as the biceps and forearms. It involves hanging from a bar with an overhand grip and pulling your body upwards until your chin clears the bar. It's an excellent indicator of relative upper body strength and a fundamental compound movement.",
+    "target_muscle_group": "Back (Latissimus Dorsi), Biceps, Forearms, Shoulders (Rear Deltoids)",
+    "safety_tips": "Use a full range of motion, lowering yourself completely with control. Avoid kipping or excessive swinging, which can strain your joints. If you're unable to perform full pull-ups, use an assisted machine, resistance bands, or focus on negative pull-ups.",
+    "difficulty_level": "Advanced"
+  },
+  "Push Jerks": {
+    "general_info": "The push jerk is an overhead lift that involves dipping and driving with the legs to propel the barbell overhead, then quickly re-dipping under the bar to catch it with locked arms. It's a powerful exercise that builds explosive leg drive and shoulder stability. This movement is often used as an accessory for the clean and jerk or as a standalone power exercise.",
+    "target_muscle_group": "Shoulders (Deltoids), Triceps, Quadriceps, Glutes",
+    "safety_tips": "Practice the dip and drive motion without weight first. Ensure a strong, stable overhead lockout. Keep the bar path vertical. Maintain a tight core throughout the movement to protect your spine. Start with lighter weights to perfect the timing and technique.",
+    "difficulty_level": "Elite"
+  },
+  "Romanian Deadlifts": {
+    "general_info": "Romanian Deadlifts (RDLs) are a hinge movement primarily targeting the hamstrings and glutes, with significant lower back involvement. Unlike conventional deadlifts, the bar doesn't touch the floor on each rep, and the knees have only a slight bend. This exercise focuses on hamstring stretch and eccentric control, making it excellent for posterior chain development.",
+    "target_muscle_group": "Hamstrings, Glutes, Lower Back",
+    "safety_tips": "Maintain a slight bend in the knees, but keep them relatively fixed. Focus on pushing your hips back, not just bending over. Keep the bar close to your body and maintain a neutral spine throughout the movement. Start with lighter weights to perfect the hip hinge motion.",
+    "difficulty_level": "Advanced"
+  },
+  "Seated Calf Raises": {
+    "general_info": "Seated calf raises are an isolation exercise primarily targeting the soleus muscle, which is a deep calf muscle. Performed seated on a machine with weight resting on your knees, you push up through the balls of your feet. This exercise is excellent for building calf endurance and size, especially the lower part of the calf.",
+    "target_muscle_group": "Calves (Soleus)",
+    "safety_tips": "Use a full range of motion, allowing a deep stretch at the bottom and a strong contraction at the top. Control the weight, avoiding bouncing. Do not overload the machine to prevent undue strain on your knees and ankles.",
+    "difficulty_level": "Beginner"
+  },
+  "Seated Leg Curls": {
+    "general_info": "Seated leg curls are an isolation exercise that targets the hamstrings from a seated position. This variation can provide a slightly different angle of hamstring engagement compared to lying leg curls and is effective for building muscle mass and strength in the back of the thighs. It allows for a stable and controlled movement.",
+    "target_muscle_group": "Hamstrings",
+    "safety_tips": "Ensure the machine is properly adjusted for your leg length, with the knee joint aligned with the machine's pivot point. Perform the movement with a slow, controlled tempo, focusing on the muscle contraction. Avoid letting the weight stack drop quickly.",
+    "difficulty_level": "Beginner"
+  },
+  "Shrugs": {
+    "general_info": "Shrugs are an isolation exercise primarily targeting the trapezius muscles, particularly the upper traps. They involve shrugging your shoulders straight up towards your ears while holding dumbbells or a barbell. This exercise is effective for building muscle mass and strength in the upper back and neck, contributing to a powerful physique and improved posture.",
+    "target_muscle_group": "Trapezius (Upper Traps)",
+    "safety_tips": "Avoid rolling your shoulders, which can strain the shoulder joint; focus on a straight up and down movement. Use a controlled tempo, squeezing your traps at the top. Do not use excessive weight that compromises your range of motion or form.",
+    "difficulty_level": "Beginner"
+  },
+  "Snatches": {
+    "general_info": "The snatch is one of the two Olympic weightlifting movements, involving lifting the barbell from the floor to an overhead position in one continuous, explosive motion. It demands immense power, flexibility, coordination, and speed. This highly technical lift is superb for developing full-body explosive strength and total body control.",
+    "target_muscle_group": "Quadriceps, Hamstrings, Glutes, Lower Back, Trapezius, Shoulders, Forearms, Core",
+    "safety_tips": "Master the individual components (pull, transition, overhead squat) before attempting the full lift. Always maintain a neutral spine. Be prepared to drop the weight if you lose control. Proper warm-up and mobility drills are absolutely essential.",
+    "difficulty_level": "Elite"
+  },
+  "Split Squats": {
+    "general_info": "Split squats are a unilateral leg exercise similar to a lunge, but with the feet in a staggered stance throughout the movement. This exercise focuses on one leg at a time, improving balance, stability, and muscle development in the quadriceps, glutes, and hamstrings. It's a great way to address muscle imbalances between legs.",
+    "target_muscle_group": "Quadriceps, Glutes, Hamstrings, Calves, Core",
+    "safety_tips": "Keep your torso upright and core engaged throughout the movement. Ensure the front knee tracks over the ankle and doesn't collapse inward. Use a stable base; a bench for the rear foot (Bulgarian split squat) can increase difficulty and range of motion.",
+    "difficulty_level": "Advanced"
+  },
+  "Sumo Deadlift": {
+    "general_info": "The sumo deadlift is a deadlift variation where the feet are placed wide apart and the hands are inside the knees. This stance allows for a more upright torso and a shorter range of motion, often making it more quad-dominant and potentially easier on the lower back for some lifters. It's effective for building overall strength, especially in the hips and glutes.",
+    "target_muscle_group": "Glutes, Hamstrings, Quadriceps, Inner Thighs, Lower Back",
+    "safety_tips": "Ensure your toes are pointed out and knees track in line with your feet. Keep your chest up and back flat throughout the lift. Drive through your heels and squeeze your glutes at the top. Practice the wide stance and hip hinge with lighter weights.",
+    "difficulty_level": "Elite"
+  },
+  "Sumo Deadlift High Pulls": {
+    "general_info": "Sumo deadlift high pulls are an explosive, full-body exercise that combines a wide-stance deadlift with an upright row. Starting from the floor with a wide stance, you pull the bar explosively upwards, shrugging and pulling the bar to chest height. This movement builds power, speed, and strength, particularly in the hips, traps, and shoulders.",
+    "target_muscle_group": "Glutes, Hamstrings, Quadriceps, Trapezius, Shoulders, Lower Back",
+    "safety_tips": "Focus on driving through the hips and pulling explosively. Keep the bar close to your body throughout the pull. Avoid letting your elbows go higher than your shoulders. Start with light weight to master the coordinated movement before increasing the load.",
+    "difficulty_level": "Elite"
+  },
+  "Triceps Pushdowns (Cable)": {
+    "general_info": "Triceps pushdowns are an isolation exercise that effectively targets all three heads of the triceps muscle. Performed using a cable machine, you press a bar or rope attachment downwards until your arms are fully extended. This exercise is great for shaping and strengthening the back of the upper arm.",
+    "target_muscle_group": "Triceps",
+    "safety_tips": "Keep your elbows tucked in close to your body and avoid letting them flare out. Control the movement and don't let the weight pull your arms up too quickly. Focus on squeezing the triceps at the bottom of the movement.",
+    "difficulty_level": "Beginner"
+  },
+  "Weighted Burpees": {
+    "general_info": "Weighted burpees are an advanced full-body exercise that combines a squat, push-up, and jump, performed with added resistance (e.g., holding dumbbells, wearing a weight vest). This intensifies the cardiovascular and strength challenge, making it a highly effective exercise for improving endurance, power, and overall fitness.",
+    "target_muscle_group": "Full Body (Quadriceps, Hamstrings, Glutes, Chest, Shoulders, Triceps, Core)",
+    "safety_tips": "Master regular burpees before adding weight. Maintain good form throughout each component (squat, push-up, jump). Ensure any added weight is secure and won't interfere with movement or cause imbalance. Listen to your body and take breaks as needed due to the high intensity.",
+    "difficulty_level": "Elite"
+  },
+  "Weighted Lunges": {
+    "general_info": "Weighted lunges are a compound exercise that works each leg independently, targeting the quadriceps, glutes, and hamstrings. They can be performed with dumbbells in hand or a barbell on the back for added resistance. This exercise significantly improves balance, unilateral strength, and overall lower body muscle development.",
+    "target_muscle_group": "Quadriceps, Glutes, Hamstrings, Calves, Core",
+    "safety_tips": "Maintain an upright torso and keep your core engaged. Ensure the front knee doesn't go past the toes and the back knee gently lowers towards the ground. Step wide enough to maintain stability and control throughout the movement.",
+    "difficulty_level": "Advanced"
+  },
+  "Weighted Push-ups": {
+    "general_info": "Weighted push-ups are an advanced variation of the classic bodyweight exercise, performed with added resistance (e.g., weight vest, plates on the back). This intensifies the challenge for the chest, shoulders, and triceps, making it excellent for building strength and muscle endurance in the upper body and core.",
+    "target_muscle_group": "Chest (Pectoralis Major), Shoulders (Anterior Deltoids), Triceps, Core",
+    "safety_tips": "Maintain a straight body line from head to heels; avoid arching or sagging your back. Control the descent and ascent of the movement. Ensure any added weight is securely placed and balanced to prevent shifting. Master standard push-ups before adding weight.",
+    "difficulty_level": "Advanced"
+  },
+  "Zercher Squat": {
+    "general_info": "The Zercher squat is a unique squat variation where the barbell is held in the crook of the elbows, against the body. This bar placement heavily taxes the core, upper back, and quadriceps, while being easier on the shoulders and wrists than traditional back squats. It's excellent for building anterior core strength and a strong squatting pattern.",
+    "target_muscle_group": "Quadriceps, Glutes, Hamstrings, Core, Upper Back",
+    "safety_tips": "Use padding (e.g., a thick bar pad or towel) on the bar for comfort in the elbows. Keep your chest up and core extremely tight to maintain a neutral spine. Start with light weight to get accustomed to the unique bar position and build up gradually.",
+    "difficulty_level": "Elite"
+  }
+}
